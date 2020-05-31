@@ -6,4 +6,5 @@ Basic Website for Bootcamp Practice with Surge and GitHub Action
 
 ### Uploading Done by writing:
 > npm install -g surge
+
 > surge D:\Bootcamp\firstAssignment\ bootcamp2020_zaime.surge.sh
